@@ -1,5 +1,4 @@
 paper id,year,abstract,space,time,select+derive,select,derive,other,doi in DT,doi in VM,VM channel,doi in VT,interactive DOI definition,peer reviewed,comment
-40,,33,8,9,10,12,4,12,14,31,,1,,,
 bernard2019a,2019,x,,,,,,x,,x,color,,,NA,taxonomy for instance labeling DOIs
 muigg2008,2008,,x,x,,x,,,,x,color,,x,NA,
 doleisch2006,2006,x,x,x,,x,,,,x,color,,x,NA,time-dependent doi
@@ -40,6 +39,3 @@ kersten2005,2005,x,,,,,,x,x,x,color,,,,
 bederson2000,2000,x,,,,x,,,,x,size,,,,
 vanham2004,2004,x,,,,x,,,,x,"size,symbols",,,,"similar to another paper i saw, they perform geometric distortion (fisheye) and topological abstraction (aggregate nodes far from focus)"
 bartram1995,1995,x,,,,,,x,,x,size,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,4,,,,
